@@ -1,0 +1,11 @@
+.task-container {
+    max-width: 400px;
+    margin: auto;
+    text-align: left;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
